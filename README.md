@@ -1,6 +1,6 @@
 ## Switch-SwShBoxReleaser
 
-![Screenshot of Auto Releasing](https://i.imgur.com/wtWewtu.png)
+![Screenshot of Auto Releasing](https://i.imgur.com/KxVQF5z.png)
 
 Modified from the Proof-of-Concept Fightstick for the Nintendo Switch by [progmem](https://github.com/progmem/Switch-Fightstick), Splatoon printer by [shinyquagsire23](https://github.com/shinyquagsire23/Switch-Fightstick), and Pokemon Auto Breeder by [patina27](https://github.com/patina27/Switch-PokemonAutoBreeder).
 
