@@ -4,6 +4,8 @@
 
 Modified from the Proof-of-Concept Fightstick for the Nintendo Switch by [progmem](https://github.com/progmem/Switch-Fightstick), Splatoon printer by [shinyquagsire23](https://github.com/shinyquagsire23/Switch-Fightstick), and Pokemon Auto Breeder by [patina27](https://github.com/patina27/Switch-PokemonAutoBreeder).
 
+Special thanks to Alice Spookcakes for helping with the realization of this project!
+
 Uses the LUFA library and reverse-engineering of the Pokken Tournament Pro Pad for the Wii U to enable custom fightsticks on the Switch System.
 
 This script releases a specified amount of boxes of Pokemon. This script can release boxes even if there are gaps in the boxes, but the first row MUST be filled. It has only been tested on Arduino UNO R3 in the English versions of Pokémon Sword & Shield.
