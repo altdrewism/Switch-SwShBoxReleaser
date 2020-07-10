@@ -39,6 +39,7 @@ In the Pokémon menu, make sure:
 - You are in the leftmost box of Pokemon you want to release.
 - The cursor is in `Select` mode (red).
 - The cursor is starting on the top left Pokemon in the box.
+- You have the IV checker open in case you want to watch and make sure nothing important is released.
 
 Also ensure that: 
 
