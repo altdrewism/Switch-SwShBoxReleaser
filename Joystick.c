@@ -353,6 +353,7 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 
 				if (row > 5) {
 					row = 1;
+					num_box--;
 					state = NEXT_BOX;
 				}
 				else {
@@ -362,7 +363,6 @@ void GetNextReport(USB_JoystickReport_Input_t* const ReportData) {
 			break;
 		
 		case NEXT_BOX:
-			num_box--;
 			if (num_box > 0) {
 				do_steps(next_box, ARRAY_SIZE(next_box), ReportData, RELEASE);
 			}
